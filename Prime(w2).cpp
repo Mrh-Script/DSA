@@ -22,4 +22,7 @@ int main(){
     else {
         cout << n << " is NOT Prime." <<endl;
     }
+
 }
+
+// If you want to check a number is Prime or not, it is enough to check the mod upto sqrt(n) using loop.
