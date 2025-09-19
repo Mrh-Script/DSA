@@ -1,4 +1,4 @@
-# Data Structure & Algorithms
+# Data Structure & Algorithms (DSA)
 Here the practiced codes of DSA (Data Structure and Algorithms).
 
 1. Prime Number (2 ways)
