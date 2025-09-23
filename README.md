@@ -6,3 +6,4 @@ Here the practiced codes of DSA (Data Structure and Algorithms).
 3. Factorial
 4. Armstrong Number
 5. Fibonacci Series
+6. Patterns
